@@ -1,6 +1,6 @@
-# 4-ServoManipulator-GUI
-Its a GUI that helps to control the servos of a 4-Link Manipulator.
-The program runs an interface that will help in manipulating the servos of a 4-Link Manipulator.
-The 4-Link Manipulator is linked via Raspberry Pi 4. Hence the Interface program can be run only in a RPi 4 or RPi 4 Simulator.
-Make sure - the following libraries are installed - tkinter, RPi.GPIO, time.
-The servos rotate from 0 degrees to 180 degrees.
+# 4-Servo Manipulator
+This project is on a Graphical User Interface created to run on a Raspberry Pi (preferably Model 4-B and above) to interface with a 4-Servo Manipulator.
+This particular 4-Servo Manipulator is not completely planar. The base servo rotates on the vertical axis, while the other 3 servos move on the horizontal plane.
+Make sure to install the required packages into the Raspberry Pi before running the GUI file.
+For more details about the project, please do read the Project Documentation.
+Thank you.
